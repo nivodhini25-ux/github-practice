@@ -9,3 +9,7 @@ This repository is where I am learning GitHub step by step.
 - Practise Python
 - Build Data Analytics projects
 - Prepare for IT internships
+- ## What I Am Learning
+- Understanding repositories
+- Learning commits and branches
+- Preparing for Data Analytics projects
