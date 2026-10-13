@@ -13,3 +13,6 @@ This repository is where I am learning GitHub step by step.
 - Understanding repositories
 - Learning commits and branches
 - Preparing for Data Analytics projects
+## What I Am Learning
+
+I am learning how to use GitHub.
