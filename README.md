@@ -15,4 +15,4 @@ This repository is where I am learning GitHub step by step.
 - Preparing for Data Analytics projects
 ## What I Am Learning
 
-I am learning how to use GitHub.
+I am learning GitHub step by step and practising every day.
